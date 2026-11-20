@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+
+# run.py 运行产物：解释器缓存与自动创建的虚拟环境
+.python_env.json
+.venv/
